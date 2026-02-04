@@ -1,0 +1,23 @@
+# --- ROS 2 Build Folders ---
+install/
+build/
+log/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+.venv/
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# --- Compiled Binaries ---
+*.o
+*.so
