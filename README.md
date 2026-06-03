@@ -16,3 +16,8 @@ This repository follows the standard ROS 2 multi-package workspace layout:
 │       └── raw_scripts/            # Standalone Python scripts (Non-ROS nodes)
 ├── .gitignore                      # Prevents build/install bloat
 └── README.md
+
+## 📚 Documentation & Notes
+
+You can find my detailed project notes, setup logs, and ROS 2 Jazzy learning resources on my public Notion page:
+👉 https://industrious-sock-502.notion.site/ROS2-9896260113ca46f884262e382f1c6e0f?source=copy_link
